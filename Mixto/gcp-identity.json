@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "utility-dynamo-330117",
-  "private_key_id": "47a00efdf4d0d7e3f359c9b9959bbae224d4229d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmDYssT8QP9Xx7\n9XOByTovRu8tTI+sGbH0ZQubh5+bOv4z3+XAV3XoF3bxVTOBMWDiKLp9fRSqhA81\n6qknfGaq2JYiLslW6y8htJ6/1DQrWApCFgBv+6O91QjsryRlcx1t88I6Y/daJDAY\nnxMmPqPAWm6hwsPG8A2bT7sd0Rd8aSyjaA2bcZjv/PZ2JU7drzZ7nOsfNjJ+j1rS\njpJ0BJcyPjifI4GsfoPD2wGk84gUXJHItNo/JtMqJxq+uaijyVE/Vd+7lUA70T6D\nr2PZEtBcr0hn6zULUuqqjhoskMzUwczC6Onk/G3XHufr31hIWPgVVYAL3wT4VSFd\nJoNwZ3R/AgMBAAECggEACBbnZF7QJawHNJ/k9V6sYx87G/WycrBWVyyjTWlkvG3w\n4BJd2I7OyBkLZjYbYPMkKUmIqNuE8u7KDTI6q6ujFn9W9Hw2uoO1vIXozV4r2r7/\nGzlfdPCSZNKtVelWYZSRFJt6cGqjLF4HPKmLPtmU7zi4m1CDjyDJRp/XB1ywehLl\nhbfUIcDsuVE3/vKLQwchzT+Or6+NqEco7sC2elvw70VeWbm3vQ+tKXXHvQj9UWv2\n+36T5xCZSUN8ZRldV/uN3CRfl1N4qC0Cqj2tHyWdsmPoxh14ZxbWVh3p/1CIqjxw\nFVQIPfTy7m00J8PJc/0DdyCGTSkVRT2C6m2uYSBnQQKBgQDQqYQisE3NMRkuQFqP\nfbl8ha7ZkBtI6Id9Z6e10W1gqLWSEHOUyiGhEX4L//Gd8gIRWMhii5wNpfk/DQM1\nmbNlNrvOdBP7t5leEVf61G24BIwsTgLlQcl6FEY+wJ80rIibFWB7I2UjWuUEuNUH\n/MxZhasz+iM1dP10zQub73ErnwKBgQDLuWgmlb2pi6tO9fUuhPAyLlxza2SqEnRP\n5wHL0F09irwxSd+nbfNHVnqCEgsPutCuaekxr085m9nsR4kw31VnpGaWuik3k/6+\nBEfcL5kUinRj6JBsp2fa4OBPMsnKhM2ZCl0WnRHXfwtqRnAJUTRwgJGcxQZ+ptLV\nW5VetG8LIQKBgFCXKFG9hk8aB3+1m0SQanONrlqZLfCa3rmwrzWqDXSntHkVoY52\nA0cSWnyH/eni7qmEgOCOy1b6I6oWfIbXNlKBMUgrzQwLfVC3oiNeqIHKP9lcyAGD\nxy0/Z2IVQ2g0uw4q03i70vQ0xv9r49uR59srpVQN6EtdRAc4qqMvd6ZBAoGBAIs0\nFDuRQ/iO7C5XGAKCadIQJbHkJvOjCoDyeyK2LI/5tWAEd2NjWMFdEPbBt3c3EpKq\n4eHGRV865Cx0MQUJBcV863CAodtNL9rM+AE3MOV9OcxuxAjKVseTsxHKxWGxXv78\nuuDR0LgsIjOrD7D+INPithyl8CsoeJW7L5R3vAyhAoGBAMyfNeqTA/HtKylpTBXI\ngzVZxaECmdFHEq6W7isGNIg0eVFGlNvOWCg+kugobaVkBsUFJcyr/f5hA7e2zgLn\nzrw7do1MNVo/bNun6JKD0UoQH25YY2dm3W8TV6cBqz8rRi5b08VkFlVIPn8rDmK6\neAeEoznr0MqViBh6XR5tQ9iz\n-----END PRIVATE KEY-----\n",
-  "client_email": "terraform@utility-dynamo-330117.iam.gserviceaccount.com",
-  "client_id": "114439510850560834341",
+  "project_id": "xxx",
+  "private_key_id": "xxx",
+  "private_key": "xxx",
+  "client_email": "xxx",
+  "client_id": "xxx",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40utility-dynamo-330117.iam.gserviceaccount.com"
+  "client_x509_cert_url": "xxx"
 }
 
