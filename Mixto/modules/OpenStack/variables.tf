@@ -14,10 +14,7 @@ variable "openstack_tenant_name" {
     default  = "emp718"
 }
 
-variable "openstack_password" {
-    description = "The password for the Tenant."
-    default  = "OpenStack2627"
-}
+variable "PASSWORD" {}
 
 variable "openstack_keypair" {
     description = "The keypair to be used."
